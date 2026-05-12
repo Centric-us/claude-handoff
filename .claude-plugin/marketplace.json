@@ -11,7 +11,7 @@
       "name": "claude-handoff",
       "source": {
         "source": "github",
-        "repo": "RyanMoultrup/claude-handoff"
+        "repo": "Centric-us/claude-handoff"
       },
       "description": "End-of-session continuity tools. Writes HANDOFF.md (task snapshot for the next agent) and CHANGELOG.md (permanent project history). Use /claude-handoff:wrap-up to write both at once, or run each independently.",
       "version": "2.0.0"

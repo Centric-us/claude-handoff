@@ -9,8 +9,8 @@ Session continuity for Claude Code. Writes `HANDOFF.md` (task snapshot for the n
 claude --plugin-dir /path/to/claude-plugins/claude-handoff
 
 # From private GitHub marketplace
-/plugin marketplace add ryanscomputer/claude-plugins
-/plugin install claude-handoff@claude-plugins
+/plugin marketplace add Centric-us/claude-handoff
+/plugin install claude-handoff@claude-handoff
 ```
 
 ## Commands
